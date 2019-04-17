@@ -1,12 +1,13 @@
 # WebServices
 
 # Tools used
-
-* [Vysor Pro](https://www.vysor.io/) - Vysor puts your Android on your desktop. Utility for mirroring your Android physical device to your screen.
 * [Visual Studio for mac and windows](https://visualstudio.microsoft.com)
+* [Dpi.lv](http://dpi.lv/) Easily find the DPI of any screen
 * [QuickTime Player](https://support.apple.com/es-es/HT201066) - For mirroring iOS devices.
 * [LiveXAML](http://www.livexaml.com) - Live simulator updates for your XAML code 
 * [Mfractor](https://www.mfractor.com) - MFractor is the essential productivity tool for Visual Studio Mac
+* [Android File Transfer](https://www.android.com/filetransfer/) - Browse and transfer files between your Mac computer and your Android device.
+* [Vysor Pro](https://www.vysor.io/) - Vysor puts your Android on your desktop. Utility for mirroring your Android physical device to your screen.
 
 # Licenses
 
