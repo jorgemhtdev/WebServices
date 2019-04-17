@@ -1,2 +1,28 @@
 # WebServices
-Web Services with Xamarin Forms
+
+# Tools used
+
+* [Vysor Pro](https://www.vysor.io/) - Vysor puts your Android on your desktop
+* [Mfractor](https://www.mfractor.com) - Incredible Tools For Visual Studio Mac
+* [LiveXAML](http://www.livexaml.com) - Live simulator updates for your XAML code 
+* [Visual Studio for mac and windows](https://visualstudio.microsoft.com/?rr=https%3A%2F%2Fwww.google.com%2F)
+
+# Licenses
+
+This project uses some third-party assets with a license that requires attribution:
+
+- [Newtonsoft](https://www.newtonsoft.com/json) : by JamesNK
+- [MVVM Helpers](https://www.nuget.org/packages/Refractored.MvvmHelpers/) : by James Montemagno
+- [Xamarin.Essentials ](https://www.nuget.org/packages/Xamarin.Essentials) : by James Montemagno
+- [Microsoft.AppCenter.Crashes](https://www.nuget.org/packages/Microsoft.AppCenter.Crashes/) : by Microsoft
+- [Microsoft.EntityFrameworkCore](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/) : by Microsoft
+- [Microsoft.AppCenter.Analytics](https://www.nuget.org/packages/Microsoft.AppCenter.Analytics/) : by Microsoft
+- [Microsoft.AppCenter.Distribute](https://www.nuget.org/packages/Microsoft.AppCenter.Distribute/) : by Microsoft
+  
+# Clean and Rebuild
+
+If you see build issues when pulling updates from the repo, try cleaning and rebuilding the solution.
+
+# Copyright and license
+
+The MIT License (MIT) see [License file](https://github.com/jorgemht/WebServices/blob/master/LICENSE)
