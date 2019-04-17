@@ -2,10 +2,11 @@
 
 # Tools used
 
-* [Vysor Pro](https://www.vysor.io/) - Vysor puts your Android on your desktop
-* [Mfractor](https://www.mfractor.com) - Incredible Tools For Visual Studio Mac
+* [Vysor Pro](https://www.vysor.io/) - Vysor puts your Android on your desktop. Utility for mirroring your Android physical device to your screen.
+* [Visual Studio for mac and windows](https://visualstudio.microsoft.com)
+* [QuickTime Player](https://support.apple.com/es-es/HT201066) - For mirroring iOS devices.
 * [LiveXAML](http://www.livexaml.com) - Live simulator updates for your XAML code 
-* [Visual Studio for mac and windows](https://visualstudio.microsoft.com/?rr=https%3A%2F%2Fwww.google.com%2F)
+* [Mfractor](https://www.mfractor.com) - MFractor is the essential productivity tool for Visual Studio Mac
 
 # Licenses
 
