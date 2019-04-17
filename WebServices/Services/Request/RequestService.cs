@@ -1,6 +1,7 @@
 ﻿namespace WebServices.Services.Request
 {
     using System;
+    using System.ComponentModel.DataAnnotations;
     using System.Net;
     using System.Net.Http;
     using System.Net.Http.Headers;
@@ -10,7 +11,6 @@
     using Newtonsoft.Json.Converters;
     using Newtonsoft.Json.Serialization;
     using WebServices.Exceptions;
-    using WebServices.Model;
     using Xamarin.Essentials;
 
     public class RequestService : IRequestService
@@ -83,7 +83,6 @@
 
             if (!string.IsNullOrEmpty(token))
             {
-                /*
                 if (IsEmail(token))
                 {
                     httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Email", token);
@@ -91,13 +90,13 @@
                 else
                 {
                     httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
-                }*/
+                }
             }
 
             return httpClient;
         }
 
-        //bool IsEmail(string email) => new EmailAddressAttribute().IsValid(email);
+        bool IsEmail(string email) => new EmailAddressAttribute().IsValid(email);
 
         private async Task HandleResponse(HttpResponseMessage response)
         {
@@ -138,4 +137,3 @@
         }
     }
 }
-
