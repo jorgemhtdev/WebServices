@@ -15,8 +15,8 @@ This project uses some third-party assets with a license that requires attributi
 - [MVVM Helpers](https://www.nuget.org/packages/Refractored.MvvmHelpers/) : by James Montemagno
 - [Xamarin.Essentials ](https://www.nuget.org/packages/Xamarin.Essentials) : by James Montemagno
 - [Microsoft.AppCenter.Crashes](https://www.nuget.org/packages/Microsoft.AppCenter.Crashes/) : by Microsoft
-- [Microsoft.EntityFrameworkCore](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/) : by Microsoft
 - [Microsoft.AppCenter.Analytics](https://www.nuget.org/packages/Microsoft.AppCenter.Analytics/) : by Microsoft
+- [Microsoft.EntityFrameworkCore](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/) : by Microsoft
 - [Microsoft.AppCenter.Distribute](https://www.nuget.org/packages/Microsoft.AppCenter.Distribute/) : by Microsoft
   
 # Clean and Rebuild
