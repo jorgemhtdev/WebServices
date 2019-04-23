@@ -13,7 +13,7 @@
 
 This project uses some third-party assets with a license that requires attribution:
 
-- [Newtonsoft](https://www.newtonsoft.com/json) : by JamesNK
+- [Newtonsoft](https://www.newtonsoft.com/json) : by James NK
 - [MVVM Helpers](https://www.nuget.org/packages/Refractored.MvvmHelpers/) : by James Montemagno
 - [Xamarin.Essentials ](https://www.nuget.org/packages/Xamarin.Essentials) : by James Montemagno
 - [Microsoft.AppCenter.Crashes](https://www.nuget.org/packages/Microsoft.AppCenter.Crashes/) : by Microsoft
